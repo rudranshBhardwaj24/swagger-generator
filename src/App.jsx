@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import SchemaForm from "./components/SchemaForm";
 import SchemasList from "./components/SchemasList";
 import SwaggerPreview from "./components/SwaggerPreview";

@@ -1,5 +1,3 @@
-import React from "react";
-
 function SchemasList({ schemas }) {
   return (
     <div className="mb-6">
