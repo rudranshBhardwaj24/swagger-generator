@@ -1,3 +1,4 @@
+import React from "react";
 function SwaggerPreview({ schemas }) {
   const swaggerComponents = schemas.reduce((acc, schema) => {
     acc[schema.name] = {
